@@ -1,6 +1,5 @@
-### Hi there 👋 My name is John.
+## Welcome to my profile! 😁
 
-<h1>Welcome to my profile! 😁</h1>
 <h3>Front-End Student</h3>
 
 <div >
