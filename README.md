@@ -1,4 +1,4 @@
-### Hi there 👋 <br>My name is John.</br>
+### Hi there 👋 My name is John.
 
 <h1>Welcome to my profile! 😁</h1>
 <h3>Front-End Student</h3>
