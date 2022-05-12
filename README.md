@@ -23,8 +23,8 @@
   <a href = "mailto:Kenarotech@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://tryhackme.com/p/CyberNeko" target="_blank"> <img src="https://img.shields.io/badge/-TryHackMe-212C42?logo=tryhackme&logoColor=white&style=for-the-badge" target="_blank"> </a> 
     
-    ![Snake animation](https://github.com/NekoCyberCat/NekoCyberCat/blob/output/github-contribution-grid-snake.svg)
-</div>
+  <!--  ![Snake animation](https://github.com/NekoCyberCat/NekoCyberCat/blob/output/github-contribution-grid-snake.svg)
+</div> -->
 
 <!--
 **NekoCyberCat/NekoCyberCat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
