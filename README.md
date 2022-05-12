@@ -1,6 +1,6 @@
 ## Welcome to my profile! 😁
 
-<h3>Front-End Student</h3>
+<h3>Develop Student</h3>
 
 <div >
   <a href="https://github.com/NekoCyberCat">
